@@ -21,7 +21,7 @@ right click on project
 open src/main/java and create a class FirstServlet
 
 ----------------------------------------------
-package com.simplilearn.demo;
+package com.session1.demo;
 
 import java.io.IOException;
 import java.io.PrintWriter;

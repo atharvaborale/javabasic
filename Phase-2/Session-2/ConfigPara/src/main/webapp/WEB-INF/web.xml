@@ -15,7 +15,7 @@
   </context-param>
   <servlet>
   	<servlet-name>conf</servlet-name>
-  	<servlet-class>com.simplilearn.conf.ConfigPara</servlet-class>
+  	<servlet-class>com.session2.conf.ConfigPara</servlet-class>
   	<init-param>
   		<param-name>username</param-name>
   		<param-value>root</param-value>
@@ -27,7 +27,7 @@
   </servlet-mapping>
   <servlet>
   	<servlet-name>another</servlet-name>
-  	<servlet-class>com.simplilearn.conf.AnotherServlet</servlet-class>
+  	<servlet-class>com.session2.conf.AnotherServlet</servlet-class>
   </servlet>
   <servlet-mapping>
   	<servlet-name>another</servlet-name>

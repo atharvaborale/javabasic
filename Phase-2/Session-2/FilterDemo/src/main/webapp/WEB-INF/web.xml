@@ -6,7 +6,7 @@
   </welcome-file-list>
   <servlet>
   	<servlet-name>dash</servlet-name>
-  	<servlet-class>com.simplilearn.filter.DashboardServlet</servlet-class>
+  	<servlet-class>com.session2.filter.DashboardServlet</servlet-class>
   </servlet>
   <servlet-mapping>
   	<servlet-name>dash</servlet-name>
@@ -14,7 +14,7 @@
   </servlet-mapping>
   <servlet>
   	<servlet-name>pro</servlet-name>
-  	<servlet-class>com.simplilearn.filter.ProfileServlet</servlet-class>
+  	<servlet-class>com.session2.filter.ProfileServlet</servlet-class>
   </servlet>
   <servlet-mapping>
   	<servlet-name>pro</servlet-name>
@@ -22,7 +22,7 @@
   </servlet-mapping>
   <filter>
   	<filter-name>filter1</filter-name>
-  	<filter-class>com.simplilearn.filter.Filter1</filter-class>
+  	<filter-class>com.session2.filter.Filter1</filter-class>
   </filter>
   <filter-mapping>
   	<filter-name>filter1</filter-name>

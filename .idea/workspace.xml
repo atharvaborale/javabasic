@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbcdce31-00c3-4ac4-8175-d101f15ef1c0" name="Changes" comment="" />
+    <list default="true" id="bbcdce31-00c3-4ac4-8175-d101f15ef1c0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Phase-2/Session-1/Servlet Config.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Phase-2/Session-1/Servlet Config.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phase-2/Session-1/ServletInterface/src/main/java/com/simplilearn/demo/Generic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phase-2/Session-1/ServletInterface/src/main/java/com/simplilearn/demo/TempServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phase-2/Session-1/ServletInterface/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Phase-2/Session-1/ServletInterface/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phase-2/Session-2/ConfigPara/src/main/java/com/simplilearn/conf/AnotherServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phase-2/Session-2/ConfigPara/src/main/java/com/simplilearn/conf/ConfigPara.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phase-2/Session-2/ConfigPara/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Phase-2/Session-2/ConfigPara/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phase-2/Session-2/CookieDemo/src/main/java/com/simplilearn/cookie/DashboardServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phase-2/Session-2/CookieDemo/src/main/java/com/simplilearn/cookie/LoginServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phase-2/Session-2/FilterDemo/src/main/java/com/simplilearn/filter/DashboardServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phase-2/Session-2/FilterDemo/src/main/java/com/simplilearn/filter/Filter1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phase-2/Session-2/FilterDemo/src/main/java/com/simplilearn/filter/InfoServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phase-2/Session-2/FilterDemo/src/main/java/com/simplilearn/filter/ProfileServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phase-2/Session-2/FilterDemo/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Phase-2/Session-2/FilterDemo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phase-2/Session-2/HiddenField/src/main/java/com/simplilearn/hidden/DashboardServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phase-2/Session-2/HiddenField/src/main/java/com/simplilearn/hidden/LoginServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phase-2/Session-2/SessionDemo/src/main/java/com/simplilearn/session/DashboardServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phase-2/Session-2/SessionDemo/src/main/java/com/simplilearn/session/LoginServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phase-2/Session-2/SessionDemo/src/main/java/com/simplilearn/session/LogoutServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phase-2/Session-2/URLRewriting/src/main/java/com/simplilearn/urlrewrite/DashboardServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phase-2/Session-2/URLRewriting/src/main/java/com/simplilearn/urlrewrite/LoginServlet.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +36,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="24si4cMbgp5zgYAsT8zVLggoHrv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
